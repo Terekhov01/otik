@@ -1,0 +1,16 @@
+﻿  Coder.cpp
+H:\otik\universal_coder\universal_coder\universal_coder\Coder.cpp(140,45): warning C4267: 'argument': conversion from 'size_t' to 'const _Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+H:\otik\universal_coder\universal_coder\universal_coder\Coder.cpp(195,10): warning C4244: 'argument': conversion from 'const unsigned __int64' to 'int', possible loss of data
+H:\otik\universal_coder\universal_coder\universal_coder\Coder.cpp(209,19): warning C4244: 'argument': conversion from 'const unsigned __int64' to 'int', possible loss of data
+H:\otik\universal_coder\universal_coder\universal_coder\Coder.cpp(219,38): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+H:\otik\universal_coder\universal_coder\universal_coder\Coder.cpp(219,38): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+H:\otik\universal_coder\universal_coder\universal_coder\Coder.cpp(226,10): warning C4244: 'argument': conversion from 'const unsigned __int64' to 'int', possible loss of data
+H:\otik\universal_coder\universal_coder\universal_coder\Coder.cpp(267,13): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'unsigned __int64'
+H:\otik\universal_coder\universal_coder\universal_coder\Coder.cpp(267,13): message : consider using '%lld' in the format string
+H:\otik\universal_coder\universal_coder\universal_coder\Coder.cpp(267,13): message : consider using '%Id' in the format string
+H:\otik\universal_coder\universal_coder\universal_coder\Coder.cpp(267,13): message : consider using '%I64d' in the format string
+  universal_coder.vcxproj -> H:\otik\universal_coder\universal_coder\x64\Debug\universal_coder.exe

@@ -1,0 +1,15 @@
+﻿  Huff.cpp
+H:\otik\lab3\lab3\lab3\Huff.cpp(137,45): warning C4267: 'argument': conversion from 'size_t' to 'const _Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+H:\otik\lab3\lab3\lab3\Huff.cpp(192,38): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+H:\otik\lab3\lab3\lab3\Huff.cpp(192,38): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+H:\otik\lab3\lab3\lab3\Huff.cpp(199,10): warning C4244: 'argument': conversion from 'const unsigned __int64' to 'int', possible loss of data
+H:\otik\lab3\lab3\lab3\Huff.cpp(240,13): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'unsigned __int64'
+H:\otik\lab3\lab3\lab3\Huff.cpp(240,13): message : consider using '%lld' in the format string
+H:\otik\lab3\lab3\lab3\Huff.cpp(240,13): message : consider using '%Id' in the format string
+H:\otik\lab3\lab3\lab3\Huff.cpp(240,13): message : consider using '%I64d' in the format string
+H:\otik\lab3\lab3\lab3\Huff.cpp(291,37): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+  lab3.vcxproj -> H:\otik\lab3\lab3\x64\Debug\lab3.exe
